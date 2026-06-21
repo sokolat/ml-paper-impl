@@ -1,2 +1,7 @@
 archive
 *.pkl
+wandb
+*.swp
+__pycache__
+.DS_Store
+LICENSE
